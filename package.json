@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "axios": "^1.4.0",
+    "hoist-non-react-statics": "^3.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-router-dom": "^6.13.0"
+  }
+}
